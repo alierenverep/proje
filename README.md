@@ -1,1 +1,1 @@
-# e ticaret sistemi projesi
+# e ticaret kullanıcı sistemi
